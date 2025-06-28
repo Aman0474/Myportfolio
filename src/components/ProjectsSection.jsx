@@ -16,7 +16,7 @@ const projects = [
     description:
       "Employee Management System is a full-stack web application built using Spring Boot (Backend) and React.js (Frontend). It allows HR departments or administrators to manage employee data efficiently. The system includes functionalities like adding, updating, deleting, and viewing employee details, along with role-based access.",
     image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+    tags: ["React", "SpringBoot", "MongoDB"],
     demoUrl: "#",
     githubUrl: "#",
   },
