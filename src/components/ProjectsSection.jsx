@@ -4,9 +4,9 @@ const projects = [
   {
     id: 1,
     title: "FireLoop",
-    description: "A beautiful landing page app using React and Tailwind.",
+    description: "AI-powered entertainment interface with real-time emotional personalization, webcam-based mood detection, and voice-triggered playback for immersive viewing experiences.",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    tags: ["React", "TailwindCSS", "ShadcnUI","JavaScript"],
     demoUrl: "#",
     githubUrl: "#",
   },
@@ -14,7 +14,7 @@ const projects = [
     id: 2,
     title: "Employee-management-system",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "Employee Management System is a full-stack web application built using Spring Boot (Backend) and React.js (Frontend). It allows HR departments or administrators to manage employee data efficiently. The system includes functionalities like adding, updating, deleting, and viewing employee details, along with role-based access.",
     image: "/projects/project2.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
     demoUrl: "#",
@@ -26,7 +26,7 @@ const projects = [
     description:
       "Full-featured e-commerce platform with user authentication and payment processing.",
     image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+    tags: ["React", "SpringBoot", "MongoDB"],
     demoUrl: "#",
     githubUrl: "#",
   },
